@@ -205,6 +205,9 @@ a{
     .pt-5 {
         padding-top: 0rem !important;
     }
+    .video-item{
+        width: 100% !important;
+    }
     
 }
 .service-item{
