@@ -208,6 +208,9 @@ a{
     .video-item{
         width: 100% !important;
     }
+    .ma-bo{
+        margin-bottom: 12px;
+    }
     
 }
 .service-item{
