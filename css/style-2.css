@@ -198,6 +198,10 @@ a{
         z-index: 999;
         cursor: pointer;
     }
+    #header-carousel .carousel-item {
+        height: 80vh;
+        overflow: hidden;
+    }
     
 }
 .service-item{
